@@ -1,0 +1,11 @@
+export const BaseUrl = 'https://api.topsalonpos.com';
+export const SalonServices = BaseUrl + '/api/s/services/';
+export const EmployeeLogin = BaseUrl + '/api/e/in/';
+export const EmployeeLogout = BaseUrl + '/api/e/out/';
+export const CheckCustomer = BaseUrl + '/api/c/status/';
+export const UpdateCustomer = BaseUrl + '/api/c/update/';
+export const RegisterCustomer = BaseUrl + '/api/c/register/';
+export const CheckinCustomer = BaseUrl + '/api/c/in/';
+export const SalonLogin = BaseUrl + '/api/s/setup/';
+export const PictureBaseUrl = "https://topsalonpos.com/Content/Pictures/Salons/";
+export const PrivacyUrl = "https://topsalonpos.com/About/Privacy";
